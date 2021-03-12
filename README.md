@@ -1,5 +1,5 @@
 <div align="center">
- <h1 align="center">Django Crash Course</h1>
+ <h3 align="center">Django Crash Course</h3>
  <hr>
 
  <p align="center">
