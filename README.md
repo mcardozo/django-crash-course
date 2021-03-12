@@ -8,3 +8,9 @@
 </div>
 
 This project is based on the book Django Crash Course by Daniel & Audrey Feldroy
+
+## Start guide
+
+Create virutal environment
+
+        $ mkvirtualenv -p /usr/bin/python3.8 hellodjango
